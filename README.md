@@ -1,0 +1,1 @@
+# average_trading_strategy
